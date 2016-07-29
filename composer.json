@@ -8,7 +8,7 @@
 	"homepage": "https://www.php-proxy.com/",
 	"require": {
 		"athlon1600/php-proxy": "@dev",
-    		"php": "^5.5.12"
+    		"php": "^5.5.38"
 	},
 	"scripts": {
 		"post-create-project-cmd": [
